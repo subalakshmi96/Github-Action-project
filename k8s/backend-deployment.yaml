@@ -19,7 +19,7 @@ spec:
       containers:
       - name: backend
 
-        image: YOUR_DOCKER_USERNAME/task-backend:latest
+        image: subalakshmik/backend-image:latest
 
         ports:
         - containerPort: 5000
